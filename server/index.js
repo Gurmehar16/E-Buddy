@@ -23,8 +23,11 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(cors({
-    origin:true,
-    credentials:true
+    origin: [
+        "http://localhost:5173",
+        "https://e-buddy-rust.vercel.app"
+    ],
+    credentials: true
 }));
  
 // apis
