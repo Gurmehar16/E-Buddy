@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nomadic-proton-458410-q8",
+  "private_key_id": "ed483e89439f577c82e996dc59f5daf06ab89172",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCwe+7/23anweG+\nlE/kv6C27f2MuMhnehcXqyNTFkbte7rnFPOXlsBFx8OnbMy1eY1zrsCGVqi02SKM\naNYXzwzg+v+cGBmR5V22biDnI91bRGjXDIDbBhQ5fMM/1EVeDPEDg3xA1J9RTnbV\nZOQ9Hg7O5A5nI4NYLPH4fwfedopyjwpc4cSptgOyIDK7EWu46fAMvr2SFv7KZJO1\nvrbH/KDa1h38Wnv1e8Cd+O3l4L8b858MBkQjvcCyI6C81CFfbnIW1pR3jMDnb156\nu5reA9cPMERv73oV3WDEkGUzvfGSIPyqAcjVVS0WeXwu4T8+WWi9Zb/FyFzqTIP2\nIgKyvmO9AgMBAAECggEAG/0TqrUJ7NH1NK29u+feG5TDvMEDW1HD/sdv2znxtrEE\nM6ihdx170bU8JL2++1rTIZEJzGRK7h9veLgZl/4Iq1dzGTTDPV2UTp3Jjw6jiNlh\nDRXZC6M7quBL8L//3koMIQQFvRxbReA9PVt6TO0K6SnG1PmPV3kNSN0QiOngzAj6\nQEz/QCp80BWS/EMc4JkiaRhmpr6als9e6QMlhm9UHHN/KuEUIAFAeQFBq7r5v5Wl\n4w9pf2/R7IMNYZeH7wuHml57wl9o++yh6JrM3gJKVsVNvdZpvEpsptTJln2OUN7J\ncWguMUJmWJ+viaR/tc880owa4LZlXu+ryoqpqhFyoQKBgQD1A/ZdDFPzmL3W2bL0\nd/IqoZS04WakWmVWHLdw7abRJpP9UJLjz+1/Od2jRaj27YDLqf96oX5mIYoJkcne\ngl1uTOD48pSHYGBw/kjPBAiRwtVguxEWpMpBkazbrJMI6Rh4r+p3PmLF32LrJOqw\nH3SAFLwSqeod6Ev8X6rdUsFQUQKBgQC4ZXAs+ilNQW/H7WLrqnxe6XaRaXzBgdGC\nFibABP/S/EarSKWkBEUtLNeA1qke+pQjuS/+NcX9MZZaq9+f6rAs3PwLl87ZOa2H\nhWvTk/PMi1toC1GleMe6fVMUZtxdtSMCso9toh1bTj2EIvmLAxZaE5lfWp7hovzg\n8WdEMdcNrQKBgQC+kRdkJbuCItG8stQSetxathQwX4Py3vAkeu9eoSj3UbcW9j1Z\nfRautrYhUIPrkqxzO8Sef88M5pczfDXzn5fFu3vbhOlrJdW87Lp6cRutK0nFE5pl\n70P0nbZBocc2zf2fmMuXdWljl6ybUbpLxBtbp0Tki02xd0TqhQojXENJEQKBgQCx\nsbcG8M+qTjvdCwr/lZwijpKfEGuTwnlWBeiztF2fQVMMroZI54CORx8pXjM90jW9\nszDnpYQ1OXrtx6FJZwz9Prt4pINF3Ao4hb9h9brESyr7uaSldB3svea4y2LivrKN\nX+tNuCLYIS6wzk9xwbjhdu+e7yIayEkusBNWqTzXRQKBgQDUt+er1p8YO2ZLvh1+\nlTOoLNmTC7e4RkFoKw96NCtOuRSbAaSPTJUkK3++GqT9+0QEj+mB909bDPrYHc8N\n33uhF5lD3Q7J1Ys7MOnCF7jjINXQA3aXS9MJCilD/PKHb2vxkmcY2gZxGj4J9V/3\n6dXlHBFoeWaKyYFEibtD7+H1Jg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@nomadic-proton-458410-q8.iam.gserviceaccount.com",
+  "client_id": "101044653799369928507",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40nomadic-proton-458410-q8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
