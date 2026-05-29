@@ -6,7 +6,7 @@ import { CoursePurchase } from "../models/coursePurchase.model.js";
 import { Lecture } from "../models/lecture.model.js";
 import { User } from "../models/user.model.js";
 
-dotenv.config();
+dotenv.config({ path: new URL('../.env', import.meta.url).pathname });
 
 const razorpay = new Razorpay({
   key_id: process.env.RAZORPAY_KEY_ID,

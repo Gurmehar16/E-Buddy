@@ -1,5 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
+dotenv.config({ path: new URL('./.env', import.meta.url).pathname });
 import cookieParser from "cookie-parser";
 import cors from "cors";
 import connectDB from "./database/db.js";
@@ -9,7 +10,7 @@ import mediaRoute from "./routes/media.route.js";
 import purchaseRoute from "./routes/purchaseCourse.route.js";
 import courseProgressRoute from "./routes/courseProgress.route.js";
 import seedCourses from "./seed.js";
-dotenv.config({});
+
 
 // call database connection here
 connectDB();
